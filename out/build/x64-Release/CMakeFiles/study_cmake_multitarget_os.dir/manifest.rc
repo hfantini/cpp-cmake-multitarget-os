@@ -1,2 +1,0 @@
-#pragma code_page(65001)
-1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "Z:/PROJECTS/PORTFOLIO/C++/study_cmake_multitarget_os/out/build/x64-Release/CMakeFiles/study_cmake_multitarget_os.dir/embed.manifest"
