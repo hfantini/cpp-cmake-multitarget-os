@@ -1,0 +1,3 @@
+Z:/PROJECTS/PORTFOLIO/C++/study_cmake_multitarget_os/out/build/x64-Release/CMakeFiles/study_cmake_multitarget_os.dir
+Z:/PROJECTS/PORTFOLIO/C++/study_cmake_multitarget_os/out/build/x64-Release/CMakeFiles/edit_cache.dir
+Z:/PROJECTS/PORTFOLIO/C++/study_cmake_multitarget_os/out/build/x64-Release/CMakeFiles/rebuild_cache.dir

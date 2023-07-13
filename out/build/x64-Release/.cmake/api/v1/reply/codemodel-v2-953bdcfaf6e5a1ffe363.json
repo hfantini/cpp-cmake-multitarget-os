@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-RelWithDebInfo-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "study_cmake_multitarget_os",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "study_cmake_multitarget_os::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-study_cmake_multitarget_os-RelWithDebInfo-2a53ee93d13d9c992d00.json",
+					"name" : "study_cmake_multitarget_os",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "Z:/PROJECTS/PORTFOLIO/C++/study_cmake_multitarget_os/out/build/x64-Release",
+		"source" : "Z:/PROJECTS/PORTFOLIO/C++/study_cmake_multitarget_os"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
